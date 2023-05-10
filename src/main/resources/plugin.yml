@@ -1,0 +1,4 @@
+name: ModularLibrary
+version: '${project.version}'
+main: com.autumnstudios.plugins.modularlibrary.ModularLibrary
+api-version: 1.19
